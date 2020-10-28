@@ -7,7 +7,7 @@ Irfath Hossain Opi
 - Have a good day
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=piaspro" alt="PiasRahman" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=irfathopi" alt="irfathopi" /> </p>
 
 
 ### Connect with me:
@@ -29,7 +29,7 @@ Irfath Hossain Opi
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br/>
 <br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piaspro&layout=compact&hide=html" alt="muktadir" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfathopi&layout=compact&hide=html" alt="irfathopi" /></p>
 
 <br />
 <br />
@@ -38,4 +38,4 @@ Irfath Hossain Opi
 ---
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=irfathopi&show_icons=true&hide_border=true" />
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="golam-rahman"><a class="LI-simple-link" href='https://bd.linkedin.com/in/golam-rahman?trk=profile-badge'>Golam Rahman</a></div>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="irfathopi"><a class="LI-simple-link" href='https://bd.linkedin.com/in/golam-rahman?trk=profile-badge'>irfathopi</a></div>
